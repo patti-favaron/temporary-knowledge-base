@@ -30,6 +30,10 @@ In its most frequent use, the three-dimensional ultrasonic anemometer is a turbu
 
 ## The MeteoFlux&trade; eddy covariance system
 
+## Measurements
+
+Technical report detailing the [amount of information in a sequence of time-stamped instrument readings]([https://github.com/patti-favaron/temporary-knowledge-base/blob/main/](https://github.com/patti-favaron/temporary-knowledge-base/blob/main/Measurements%20and%20Information.pdf).
+
 ## Micro-meteorology and micro-climatology
 
 ## Atmospheric dispersion modeling
